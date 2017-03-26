@@ -1,0 +1,2 @@
+# Kronetri1
+Exploit
